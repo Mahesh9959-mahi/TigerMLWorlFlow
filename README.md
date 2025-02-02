@@ -126,14 +126,3 @@ Workflows are stored in local state (or persisted in localStorage, if implemente
 
 Nodes have predefined types, each with specific properties.
 
-
-
----
-
-Future Enhancements
-
-Real-time Collaboration: Implement WebSockets.
-
-Conditional Edges: Restrict connections based on node types.
-
-Unit Testing: Add tests with Jest and React Testing Library
